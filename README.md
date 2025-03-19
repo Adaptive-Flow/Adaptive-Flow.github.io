@@ -6,32 +6,32 @@ Adaptive Flow is a personal management system that harmonizes productivity with 
 
 ## Documents
 
-- [**Abstract**](adaptive-flow-abstract.md): High-level overview of the Adaptive Flow system, its innovations, and benefits
-- [**Conceptual Foundations**](adaptive-flow-conceptual.md): Explores the productivity methodologies that inform the Adaptive Flow approach
-- [**Wellness Connection**](adaptive-flow-wellness.md): Details how psychological principles are integrated to support wellbeing
-- [**Methodology Table**](adaptive-flow-methodology-table.md): Reference table comparing Adaptive Flow with established methodologies
-- [**Implementation Overview**](adaptive-flow-implementation.md): Describes how the Adaptive Flow concepts work in practice
-- [**AI Cognitive Partner**](adaptive-flow-ai-role.md): Explores the role of AI as a collaborative thinking partner
-- [**System Architecture**](adaptive-flow-system-architecture.md): Technical details about components and implementation (placeholder for future development)
+- [**Abstract**](abstract.md): High-level overview of the Adaptive Flow system, its innovations, and benefits
+- [**Conceptual Foundations**](conceptual.md): Explores the productivity methodologies that inform the Adaptive Flow approach
+- [**Wellness Connection**](wellness.md): Details how psychological principles are integrated to support wellbeing
+- [**Methodology Table**](methodology-table.md): Reference table comparing Adaptive Flow with established methodologies
+- [**Implementation Overview**](implementation.md): Describes how the Adaptive Flow concepts work in practice
+- [**AI Cognitive Partner**](ai-role.md): Explores the role of AI as a collaborative thinking partner
+- [**System Architecture**](system-architecture.md): Technical details about components and implementation (placeholder for future development)
 
 ## Suggested Reading Order
 
 ### For Executive Understanding
-1. [Executive Abstract](adaptive-flow-abstract.md)
-2. [Implementation Overview](adaptive-flow-implementation.md)
-3. [Wellness Connection](adaptive-flow-wellness.md)
+1. [Abstract](abstract.md)
+2. [Implementation Overview](implementation.md)
+3. [Wellness Connection](wellness.md)
 
 ### For Theoretical Understanding
-1. [Conceptual Foundations](adaptive-flow-conceptual.md)
-2. [Wellness Connection](adaptive-flow-wellness.md)
-3. [Methodology Table](adaptive-flow-methodology-table.md)
-4. [AI Cognitive Partner](adaptive-flow-ai-role.md)
+1. [Conceptual Foundations](conceptual.md)
+2. [Wellness Connection](wellness.md)
+3. [Methodology Table](methodology-table.md)
+4. [AI Cognitive Partner](ai-role.md)
 
 ### For Practical Implementation
-1. [Executive Abstract](adaptive-flow-abstract.md)
-2. [Implementation Overview](adaptive-flow-implementation.md)
-3. [AI Cognitive Partner](adaptive-flow-ai-role.md)
-4. [Conceptual Foundations](adaptive-flow-conceptual.md)
+1. [Abstract](abstract.md)
+2. [Implementation Overview](implementation.md)
+3. [AI Cognitive Partner](ai-role.md)
+4. [Conceptual Foundations](conceptual.md)
 
 ## Key Terminology
 

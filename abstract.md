@@ -45,8 +45,8 @@ Adaptive Flow differs from existing systems through:
 
 This abstract serves as an introduction to the Adaptive Flow system. For deeper understanding, please see the accompanying documents:
 
-- [The Wellness Connection](adaptive-flow-wellness.md): How Adaptive Flow incorporates psychological principles
-- [Conceptual Foundations](adaptive-flow-conceptual.md): The productivity methodologies that inform our approach
-- [Implementation Overview](adaptive-flow-implementation.md): Practical aspects of using the system
-- [Methodology Table](adaptive-flow-methodology-table.md): Comparison with other methodologies
-- [AI Cognitive Partner](adaptive-flow-ai-role.md): The role of AI in supporting the system
+- [The Wellness Connection](wellness.md): How Adaptive Flow incorporates psychological principles
+- [Conceptual Foundations](conceptual.md): The productivity methodologies that inform our approach
+- [Implementation Overview](implementation.md): Practical aspects of using the system
+- [Methodology Table](methodology-table.md): Comparison with other methodologies
+- [AI Cognitive Partner](ai-role.md): The role of AI in supporting the system

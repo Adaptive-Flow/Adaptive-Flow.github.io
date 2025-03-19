@@ -122,4 +122,3 @@ This partnership model creates a system that feels less like a tool and more lik
 - [Wellness Connection](adaptive-flow-wellness.md): Psychological principles integration
 - [Implementation Overview](adaptive-flow-implementation.md): Practical system implementation
 - [Methodology Table](adaptive-flow-methodology-table.md): Detailed comparison with other methodologies
-- [README](README.md): Overview of all documentation

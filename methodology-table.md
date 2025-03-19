@@ -71,4 +71,3 @@ This reference table can be used to understand both the philosophical and practi
 - [Wellness Connection](adaptive-flow-wellness.md): Psychological principles integration
 - [Implementation Overview](adaptive-flow-implementation.md): Practical system implementation
 - [AI Cognitive Partner](adaptive-flow-ai-role.md): The role of AI in the system
-- [README](README.md): Overview of all documentation

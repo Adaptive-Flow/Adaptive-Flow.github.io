@@ -123,4 +123,3 @@ The system represents a significant shift from productivity tools that ignore ps
 - [Conceptual Foundations](adaptive-flow-conceptual.md): Productivity methodologies integration
 - [Implementation Overview](adaptive-flow-implementation.md): Practical system implementation
 - [AI Cognitive Partner](adaptive-flow-ai-role.md): The role of AI in supporting wellness
-- [README](README.md): Overview of all documentation

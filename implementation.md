@@ -167,4 +167,3 @@ The technical sophistication happens behind the scenes, allowing the user experi
 - [Wellness Connection](adaptive-flow-wellness.md): Psychological principles integration
 - [AI Cognitive Partner](adaptive-flow-ai-role.md): The role of AI in implementation
 - [Methodology Table](adaptive-flow-methodology-table.md): Comparison with other methodologies
-- [README](README.md): Overview of all documentation

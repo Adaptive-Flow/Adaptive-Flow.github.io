@@ -1,4 +1,4 @@
-# Adaptive Flow Documentation
+# Adaptive Flow Personal Management
 
 ## Overview
 

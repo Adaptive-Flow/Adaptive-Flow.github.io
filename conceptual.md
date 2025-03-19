@@ -132,4 +132,3 @@ For implementation details, please see the [Implementation Overview](adaptive-fl
 - [Wellness Connection](adaptive-flow-wellness.md): Psychological principles integration
 - [Methodology Table](adaptive-flow-methodology-table.md): Detailed comparison with other methodologies
 - [Implementation Overview](adaptive-flow-implementation.md): Practical system implementation
-- [README](README.md): Overview of all documentation

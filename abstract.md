@@ -8,7 +8,7 @@ permalink: /abstract/
 
 ## Overview
 
-Adaptive Flow is a next-generation personal management system that harmonizes productivity with psychological wellbeing. Unlike traditional systems that impose rigid structures counter to human nature, Adaptive Flow works with natural cognitive rhythms, energy fluctuations, and psychological needs.
+Adaptive Flow is a personal management system that harmonizes productivity with psychological wellbeing. Unlike traditional systems that impose rigid structures counter to human nature, Adaptive Flow works with natural cognitive rhythms, energy fluctuations, and psychological needs.
 
 ## Core Innovation
 
@@ -50,4 +50,3 @@ This abstract serves as an introduction to the Adaptive Flow system. For deeper 
 - [Implementation Overview](adaptive-flow-implementation.md): Practical aspects of using the system
 - [Methodology Table](adaptive-flow-methodology-table.md): Comparison with other methodologies
 - [AI Cognitive Partner](adaptive-flow-ai-role.md): The role of AI in supporting the system
-- [Homepage](README.md): Overview of all documentation

@@ -1,7 +1,7 @@
 title: Adaptive Flow
-description: A next-generation personal management system that harmonizes productivity with psychological wellbeing
+description: A personal management system that harmonizes productivity with psychological wellbeing
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://adaptive-flow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Adaptive-Flow
 
 # Build settings

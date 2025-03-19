@@ -48,4 +48,4 @@ This document will provide technical details about how the Adaptive Flow system 
 - [Executive Abstract](adaptive-flow-abstract.md): High-level overview of Adaptive Flow
 - [Implementation Overview](adaptive-flow-implementation.md): Non-technical implementation description
 - [AI Cognitive Partner](adaptive-flow-ai-role.md): The role of AI in the system
-- [README](README.md): Overview of all documentation
+

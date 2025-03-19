@@ -1,0 +1,44 @@
+title: Adaptive Flow
+description: A next-generation personal management system that harmonizes productivity with psychological wellbeing
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: Adaptive-Flow
+
+# Build settings
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-relative-links
+  - jekyll-readme-index
+
+# Enable collection of documents
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+# Default layout for pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: default
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitignore
+  
+# Enable relative links
+relative_links:
+  enabled: true
+  collections: true
